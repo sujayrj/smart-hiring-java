@@ -4,9 +4,17 @@ frontend/node_modules/
 frontend/dist/
 
 # Local configuration and secrets
-.env
-**/.env
+.env*
+**/.env*
+!.env.example
+!**/.env.example
 **/*.local
+*.pem
+*.key
+*.p12
+*.jks
+credentials.json
+**/credentials.json
 
 # IDE and OS files
 .idea/
