@@ -584,6 +584,7 @@ backend/src/main/resources/      application config, Flyway, seed data
 frontend/                        React/Vite single-page application
 diagrams/                        Pipeline and portal diagrams
 SmartHire_Pipeline_UseCase.md    Full project use-case document
+SmartHire_24_Hour_Hackathon_Mentor_Assessment.md  Canonical intern assessment guide
 SmartHire_LLD_and_Data_Model...  Detailed low-level design
 SmartHire_Simplified_Requirements...  Condensed requirements
 input_data.json                  Reference seed dataset
